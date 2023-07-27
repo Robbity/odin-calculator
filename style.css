@@ -39,6 +39,7 @@ body {
   padding: 20px;
   width: 380px;
   height: 160px;
+  flex-basis: auto;
   border-radius: 5px;
   box-sizing: border-box;
 }
@@ -76,11 +77,11 @@ body {
 }
 
 #delete {
-  background-color: rgb(196, 240, 240);
+  background-color: rgb(197, 244, 252);
 }
 
 #delete:hover {
-  background-color: rgb(205, 255, 255);
+  background-color: rgb(214, 255, 255);
 }
 
 .btn {
